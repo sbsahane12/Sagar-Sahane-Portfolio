@@ -321,8 +321,6 @@ This project requires Python 3.6 and the following libraries installed:
 - High values of Accuracy, Sensitivity & Specificity indicate good predictive powers of model.
 - Low False positive rate indicates model’s ability to
 - predict positive values accurately.
-- ![image](https://user-images.githubusercontent.com/106218600/217209211-427e9944-a59d-4b3a-897a-ef0fc888c20e.png)
-
 ## Recommendations
 
 🠜Toget more customers, XEducation must keep the lead score lower, starting at ‘0’. But to achieve target conversion of greater than 80%, it should keep the cut off at 30.
