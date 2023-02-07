@@ -321,13 +321,15 @@ This project requires Python 3.6 and the following libraries installed:
 - High values of Accuracy, Sensitivity & Specificity indicate good predictive powers of model.
 - Low False positive rate indicates model’s ability to
 - predict positive values accurately.
+
+
 ## Recommendations
 
-🠜Toget more customers, XEducation must keep the lead score lower, starting at ‘0’. But to achieve target conversion of greater than 80%, it should keep the cut off at 30.
-🠜Thus, in the model, data frame changed for cut off Lead Score to gauge the Conversion percentages w.r.t. actual converted.
-🠜Lowering the lead score cut off reduces conversion %, but it increases
+- Toget more customers, XEducation must keep the lead score lower, starting at ‘0’. But to achieve target conversion of greater than 80%, it should keep the cut off at 30.
+- Thus, in the model, data frame changed for cut off Lead Score to gauge the Conversion percentages w.r.t. actual converted.
+- Lowering the lead score cut off reduces conversion %, but it increases
 number of actual converted.
-🠜Based on the man power availability with XEducation, it may decide to give weightage to conversion %oractual numbers.
+- Based on the man power availability with XEducation, it may decide to give weightage to conversion %oractual numbers.
 
 
 # [Project 11: Student Mark Predictor Project Deployment Using Advanced Machine Learning](https://github.com/sbsahane12/Student-Mark-Predictor-Project-Deployment-Using-Advanced-Machine-Learning-.git)
