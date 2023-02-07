@@ -1,6 +1,6 @@
-# Machine-Learning-Projects-for-2023
+# [Machine-Learning-Projects-for-2023](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git)
 
-# [Project 1: House Price Prediction Using Advanced Machine Learning](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git)
+# [Project 1: House Price Prediction Using Advanced Machine Learning](https://github.com/sbsahane12/House-Price-Prediction-Using-Advanced-Machine-Learning.git)
 This is a project I did for my masters research paper, where I build a House Price Prediction system for a House dataset.
 ## Install
 This project requires Python 3.6 and the following libraries installed:
@@ -20,7 +20,7 @@ This project requires Python 3.6 and the following libraries installed:
 7. K-Means Clustering
 8. Random Forest
 
-# [Project 2: Air-quality-prediction Using Advanced Machine Learning](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git) 
+# [Project 2: Air-quality-prediction Using Advanced Machine Learning](https://github.com/sbsahane12/Air-quality-prediction-Using-Advanced-Machine-Learning.git) 
 As air pollution is a complex mixture of toxic components with considerable impact on humans, forecasting air pollution concentration emerges as a priority for improving life quality. So with the help of Python tools and some Machine Learning algorithms, we try to predict the air quality. 
 
 ## Aim :
@@ -46,7 +46,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ****And doing the Hyperameter tuning for the above****
 
-# [Project  3: Ecom-Market-Mix-Modle Using ML](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git) 
+# [Project  3: Ecom-Market-Mix-Modle Using ML](https://github.com/sbsahane12/Ecom-Market-Mix-Modle-Using-ML.git) 
 To build a MMM for ElecKart Ontario based ecommerce company
 ## Problem Statement  
 ### Background  - Business Understanding   
@@ -84,7 +84,7 @@ You have to create market mix models for three product subcategories  - camera a
 1. Linear Regression
 2. Xgboost Regressor
 
-# [Project 4:Telecom Churn Logistic Regression with PCA](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git)
+# [Project 4:Telecom Churn Logistic Regression with PCA](https://github.com/sbsahane12/Telecom-Churn-Logistic-Regression-with-PCA.git)
 ## Telecom Churn: Logistic Regression with PCA
 With 21 predictor variables, we need to predict whether a particular customer will switch to another telecom provider or not. In telecom terminology, customer attrition is referred to as 'churn'.
 ## Install
@@ -99,7 +99,7 @@ This project requires Python 3.6 and the following libraries installed:
 1. PCA Algorithm 
 2. Logistic Regression Algorithm 
 
-# [Project  5: Countries  Clustering  Assignment Using ML](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git) 
+# [Project  5: Countries  Clustering  Assignment Using ML](https://github.com/sbsahane12/Countries-Clustering-Assignment-Using-ML.git) 
 ## Problem Statement
 HELP International is an international humanitarian NGO that is committed to fighting poverty and  providing the people of backward countries with basic amenities and relief during the time of  disasters and natural calamities
 After the recent funding programmes, they have been able to raise around $ 10 million. Now the  CEO of the NGO needs to decide how to use this money strategically and effectively.
@@ -143,7 +143,7 @@ This project requires Python 3.6 and the following libraries installed:
 
 
 
-# [Project  6: FineTech App Using ML](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git) 
+# [Project  6: FineTech App Using ML](https://github.com/sbsahane12/-FineTech-App-Using-ML.git) 
 ## Problem Statement
 - Follow the “Directing Customers to Subscription Through Financial App Behavior Analysis Machine Learning End to End Project” step by step to get 4 Bonus.
 - We are finding how much time the customer takes to get enrolled in the premium feature app after registration. For that subtract ‘fineTech_appData.first_open’ from ‘fineTech_appData.enrolled_date’ and set data type as timedelta64 in hours.
@@ -175,7 +175,7 @@ This project requires Python 3.6 and the following libraries installed:
 
 
 
-# [Project  7: Handwriting digit recognition using SVM](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git) 
+# [Project  7: Handwriting digit recognition using SVM](https://github.com/sbsahane12/Handwriting-digit-recognition-using-SVM.git) 
 ## Problem Statement
 As people have different handwriting it is difficult for a computer or any device to understand those handwritings of different people. The handwriting recognition is the ability of a computer or a device to take input handwriting in the form of an image such as picture of handwritten text which is fed to the pattern recognition algorithm or a model
 ## Steps :
@@ -236,7 +236,7 @@ This project requires Python 3.6 and the following libraries installed:
 
 
 
-# [Project 9:HR - Attrition Analytics -  Exploratory Analysis & Predictive Modeling Using Advanced Machine Learning](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git)
+# [Project 9:HR - Attrition Analytics -  Exploratory Analysis & Predictive Modeling Using Advanced Machine Learning](https://github.com/sbsahane12/HR-Attrition-Analytics-Exploratory-Analysis-Predictive-Modeling-Using-Advanced-ML)
 ## Aim :
 > Human Resources are critical resources of any organiazation. Organizations spend huge amount of time and money to hire 
 > and nuture their employees. It is a huge loss for companies if employees leave, especially the key resources. 
@@ -275,7 +275,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 
 
-# [Project  10:Lead scoring case study analysis using ML](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git) 
+# [Project  10:Lead scoring case study analysis using ML](https://github.com/sbsahane12/Lead-scoring-case-study-analysis-using-ML.git) 
 ## Problem Statement  
 ### Background  - Business Understanding   
 - Building Logistic regression model & assigning Lead Scores to the prospective candidates of X Education
@@ -332,7 +332,7 @@ number of actual converted.
 🠜Based on the man power availability with XEducation, it may decide to give weightage to conversion %oractual numbers.
 
 
-# [Project 11: Student Mark Predictor Project Deployment Using Advanced Machine Learning](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git)
+# [Project 11: Student Mark Predictor Project Deployment Using Advanced Machine Learning](https://github.com/sbsahane12/Student-Mark-Predictor-Project-Deployment-Using-Advanced-Machine-Learning-.git)
 ## Install
 This project requires Python 3.6 and the following libraries installed:
 - [NumPy](http://www.numpy.org/)
