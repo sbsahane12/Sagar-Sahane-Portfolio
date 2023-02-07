@@ -85,7 +85,7 @@ You have to create market mix models for three product subcategories  - camera a
 1. Linear Regression
 2. Xgboost Regressor
 
-# [Project 1:Telecom Churn Logistic Regression with PCA](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git)
+# [Project 4:Telecom Churn Logistic Regression with PCA](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git)
 ## Telecom Churn: Logistic Regression with PCA
 With 21 predictor variables, we need to predict whether a particular customer will switch to another telecom provider or not. In telecom terminology, customer attrition is referred to as 'churn'.
 ## Install
