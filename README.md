@@ -345,7 +345,7 @@ This project requires Python 3.6 and the following libraries installed:
 1. Linear Regression Algorithm 
 
 
-# [Cotton-Disease-Prediction🌿](https://github.com/sbsahane12/Cotton-Disease-Prediction-.git)
+# [Project 12:Cotton-Disease-Prediction🌿](https://github.com/sbsahane12/Cotton-Disease-Prediction-.git)
 ![img1](https://user-images.githubusercontent.com/37875797/117844621-75bf1a00-b29d-11eb-9c7a-47ef88e9f50a.jpg)
 
 ## Table of Content
